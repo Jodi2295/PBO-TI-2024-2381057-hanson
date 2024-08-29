@@ -9,5 +9,7 @@ public class BuatVariabel {
         String universitasAdventIndonesia;
 
         var jodi = 10;
+
+        final float nilaiPhytagoras = 3.14F;
     }
 }

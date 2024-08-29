@@ -8,6 +8,5 @@ public class TipeDataCharacter {
         System.out.println(n);
         System.out.println(a);
         System.out.println(i);
-
     }
 }

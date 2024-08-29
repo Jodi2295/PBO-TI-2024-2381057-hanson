@@ -4,8 +4,8 @@ public class TipeDataString {
         String firstName = "Jodi";
         String lastName = "Yusup";
 
-        String fullName = firstName + " " +lastName;
-        String fullName = firstName.concat(" ").concat(:lastName);
+     //   String fullName = firstName + " " + lastName;
+        String fullName = firstName.concat(" ").concat(lastName);
         System.out.println(fullName);
     }
 }

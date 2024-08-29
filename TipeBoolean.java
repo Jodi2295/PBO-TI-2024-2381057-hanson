@@ -3,6 +3,6 @@ public class TipeBoolean {
         boolean benar = true;
         boolean salah = false;
         boolean hasilBoolean = benar;
-        System.out.printl
+        System.out.println(hasilBoolean);
     }
 }
